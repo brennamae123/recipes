@@ -1,6 +1,6 @@
 # Recipes
 
-Created by Brenna for Learning Purposes.
+Created by Brenna for learning purposes.
 
 ---
 
